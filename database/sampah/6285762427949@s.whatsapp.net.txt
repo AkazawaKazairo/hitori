@@ -1,0 +1,12 @@
+file '/data/data/com.termux/files/home/hitori/database/sampah/6285762427949@s.whatsapp.net0.mp4'
+duration 0.5
+file '/data/data/com.termux/files/home/hitori/database/sampah/6285762427949@s.whatsapp.net1.mp4'
+duration 0.5
+file '/data/data/com.termux/files/home/hitori/database/sampah/6285762427949@s.whatsapp.net2.mp4'
+duration 0.5
+file '/data/data/com.termux/files/home/hitori/database/sampah/6285762427949@s.whatsapp.net3.mp4'
+duration 0.5
+file '/data/data/com.termux/files/home/hitori/database/sampah/6285762427949@s.whatsapp.net4.mp4'
+duration 0.5
+file '/data/data/com.termux/files/home/hitori/database/sampah/6285762427949@s.whatsapp.net4.mp4'
+duration 3
