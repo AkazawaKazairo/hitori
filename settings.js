@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner atau lebih
-global.author = 'Nazedev'
-global.botname = 'Hitori Bot'
-global.packname = 'Bot WhatsApp'
+global.owner = ['6285762427949','6283142478779'] //['628','628'] 2 owner atau lebih
+global.author = 'ArCel-development.'
+global.botname = 'Arcel-Bot'
+global.packname = 'Bot WA'
 global.listprefix = ['+','!','.']
 
 /*
@@ -36,22 +36,22 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/B5qJIwZHm4VEYZJQE6iMwy',
-	ch: '120363250409960161@newsletter',
+	yt: 'https://www.youtube.com/@AkazawaKazairo',
+	gh: 'https://github.com/AkazawaKazairo',
+	gc: 'https://chat.whatsapp.com/BbICDrNyuBtGP1BlNVzQuV',
+	ch: '0029VbAoVUEI1rcZq1ukjg00@newsletter',
 }
 
 global.limit = {
-	free: 20,
-	premium: 999,
-	vip: 9999
+	free: 200,
+	premium: 99999,
+	vip: 9999999
 }
 
 global.money = {
-	free: 10000,
-	premium: 1000000,
-	vip: 10000000
+	free: 100000,
+	premium: 100000000,
+	vip: 10000000000
 }
 
 global.mess = {
