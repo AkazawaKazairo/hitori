@@ -29,7 +29,7 @@ global.number_bot = '' // Kalo pake panel bisa masukin nomer di sini, jika belum
 
 global.fake = {
 	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
-	thumbnailUrl: 'https://telegra.ph/file/fe4843a1261fc414542c4.jpg',
+	thumbnailUrl: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
 	thumbnail: fs.readFileSync('./src/media/naze.png'),
 	docs: fs.readFileSync('./src/media/fake.pdf'),
 	listfakedocs: ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','application/vnd.openxmlformats-officedocument.presentationml.presentation','application/vnd.openxmlformats-officedocument.wordprocessingml.document','application/pdf'],
@@ -39,7 +39,7 @@ global.my = {
 	yt: 'https://youtube.com/c/AkazawaKazairo',
 	gh: 'https://github.com/AkazawaKazairo',
 	gc: 'https://chat.whatsapp.com/BbICDrNyuBtGP1BlNVzQuV',
-	ch: '12036325040961@newsletter',
+	ch: '120363400665969827@newsletter',
 }
 
 global.limit = {
@@ -90,3 +90,4 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 });
+
